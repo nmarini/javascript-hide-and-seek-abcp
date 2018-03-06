@@ -1,0 +1,3 @@
+function getFirstSelelctor(selector) {
+  
+}
